@@ -1,0 +1,9 @@
+body{background-color: #8d7257;}
+h1{font-family: Verdana; font-size: 40px; color: #270402;}
+p{font-family: Garamond; font-size: 20px; color: #512113;}
+img{border-width: 6px; border-style: double; border-color: #d2cdca; display: block; margin-right: auto; margin-left: auto;}
+a{font-family: Garamond; color: #5e3e2f; font-size: 20px; text-decoration: none; }
+a:hover{color: whitesmoke;}
+li{text-align: center; padding: 10px;}
+ol{list-style-type: none; margin: 0; padding: 0; overflow: hidden;}
+ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden;}
